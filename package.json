@@ -1,5 +1,5 @@
 {
-  "homepage": "http://QHashemi.github.io",
+
   "name": "my-profile",
   "version": "0.1.0",
   "private": true,
@@ -17,6 +17,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "homepage": "https://github.com/QHashemi/my-blog",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
